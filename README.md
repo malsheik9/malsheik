@@ -1,2 +1,2 @@
-# Python-Projects
-This folder includes my projects
+# Projects
+This folder includes all my projects.
